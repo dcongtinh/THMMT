@@ -1,2 +1,3 @@
 ifconfig eth0 192.168.21.10/24 up
+ifconfig eth0 hw ether 00:00:00:00:03:10
 route add default gw 192.168.21.1
