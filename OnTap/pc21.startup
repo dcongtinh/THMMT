@@ -1,0 +1,2 @@
+ifconfig eth0 150.30.192.2/20 up
+route add default gw 150.30.192.1
